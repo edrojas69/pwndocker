@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:kinetic
 
 LABEL MAINTAINER="Eduardo Rojas"
 
