@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:24.04
 LABEL MAINTAINER="Eduardo Rojas"
 
 ENV DEBIAN_FRONTEND nointeractive
